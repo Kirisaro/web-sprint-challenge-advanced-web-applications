@@ -1,6 +1,7 @@
 import React from 'react';
 import { Route, Redirect } from "react-router-dom";
 import styled from 'styled-components';
+
 import PrivateRoute from './PrivateRoute';
 import Header from './Header';
 import BloomHeader from './BloomHeader';
